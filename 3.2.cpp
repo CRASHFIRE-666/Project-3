@@ -11,5 +11,6 @@ int main()
     c=b;
     b=x;
     cout<<"A="<<a<<", B="<<b<<", C="<<c<<endl;
+    system("pause");
     return 0;
 }
